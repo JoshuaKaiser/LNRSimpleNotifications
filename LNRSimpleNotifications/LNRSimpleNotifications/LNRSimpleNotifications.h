@@ -5,7 +5,7 @@
 //  TSMessages: Copyright (c) 2014 Toursprung, Felix Krause <krausefx@gmail.com>
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 //! Project version number for LNRSimpleNotifications.
 FOUNDATION_EXPORT double LNRSimpleNotificationsVersionNumber;
